@@ -1,0 +1,11 @@
+# Vagrant
+.vagrant/
+*.log
+*.box
+
+# K3s / kubeconfig artifacts
+*.kubeconfig
+kubeconfig
+node-token
+
+.DS_Store
